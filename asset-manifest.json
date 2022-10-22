@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pallpollOverview/static/css/main.b50fc214.css",
+    "main.js": "/pallpollOverview/static/js/main.f7a3b26c.js",
+    "static/js/787.a2295dad.chunk.js": "/pallpollOverview/static/js/787.a2295dad.chunk.js",
+    "index.html": "/pallpollOverview/index.html",
+    "main.b50fc214.css.map": "/pallpollOverview/static/css/main.b50fc214.css.map",
+    "main.f7a3b26c.js.map": "/pallpollOverview/static/js/main.f7a3b26c.js.map",
+    "787.a2295dad.chunk.js.map": "/pallpollOverview/static/js/787.a2295dad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b50fc214.css",
+    "static/js/main.f7a3b26c.js"
+  ]
+}
